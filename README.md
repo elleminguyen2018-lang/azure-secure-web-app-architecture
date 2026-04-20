@@ -75,7 +75,8 @@ Admin → Azure Bastion → Private backend VMs
 ![15 Browser Test](screenshots/15-browser-test.png)
 
 ### 16. Final Resource Group View
-![16 Final Resource Group](screenshots/16-final-resource-group.png)
+![16 Final Resource Group](screenshots/16-final-resource-groupa.png)
+![16 Final Resource Group](screenshots/16-final-resource-groupb.png)
 
 ---
 
